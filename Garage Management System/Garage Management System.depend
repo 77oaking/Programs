@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1669397824 source:f:\programs\garage management system\main.c
+	"hh.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1667502161 f:\programs\garage management system\garageowner.h
+
+1669400449 source:f:\programs\garage management system\hh.c
+	"hh.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1669361170 f:\programs\garage management system\hh.h
+

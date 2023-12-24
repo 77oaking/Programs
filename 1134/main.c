@@ -1,0 +1,59 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+
+    int alco=0,gaso=0,die=0,i=0;
+    printf("MUITO OBRIGADO\n");
+    while(i!=4){
+        loop:
+        scanf("%d",&i);
+        switch(i){
+        case 1:
+            alco++;
+            break;
+        case 2:
+            gaso++;
+            break;
+        case 3:
+            die++;
+            break;
+        case 4:
+            break;
+        default:
+            goto loop;
+        }
+    }
+
+    printf("Alcool= %d\n",alco);
+    printf("Gasoline= %d\n",gaso);
+    printf("Diesel= %d\n",die);
+
+
+
+
+
+    return 0;
+}
+
+
+
+
+
+
+//int a,b = 0,c = 0,d = 0, e, i;
+//    printf("MUITO OBRIGADO\n");
+//    for(i = 0;i < 100;i++){
+//        scanf("%d", &a);
+//        if (a >= 1 && a <= 3){
+//            if(a == 1)b++;
+//            else if(a == 2)c++;
+//            else if(a == 3)d++;
+//        }
+//        else if(a == 4)break;
+//    }
+//    printf("Alcool: %d\n", b);
+//    printf("Gasolina: %d\n", c);
+//    printf("Diesel: %d\n", d);
+

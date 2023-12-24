@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1594753151 source:e:\programs\rafis test\main.c
+	<stdio.h>
+	<stdlib.h>
+

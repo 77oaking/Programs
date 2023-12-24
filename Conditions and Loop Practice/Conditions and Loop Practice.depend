@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1630688358 source:f:\programs\conditions and loop practice\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624707695 source:f:\programs\guide to cp\main.cpp
+	<iostream>
+	<vector>
+

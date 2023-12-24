@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1623224092 source:f:\programs\c++ programs\selection sort\main.cpp
+	<iostream>
+	<conio.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1649004864 source:f:\programs\algorithm lab assignment\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<stdbool.h>
+	<limits.h>
+

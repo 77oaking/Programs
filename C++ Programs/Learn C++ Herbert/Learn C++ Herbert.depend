@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1606662812 source:f:\programs\c++ programs\learn c++ herbert\main.cpp
+	<iostream>
+	<cmath>
+	"learn.h"
+
+1606203401 source:f:\programs\c++ programs\learn c++ herbert\section 1.6.cpp
+	<iostream>
+
+1606204110 source:f:\programs\c++ programs\section1.6.cpp
+	<iostream>
+
+1606662790 f:\programs\c++ programs\learn c++ herbert\learn.h
+
+1606662767 source:f:\programs\c++ programs\learn c++ herbert\learn.cpp
+	<iostream>
+	"learn.h"
+	<cmath>
+	<stdio .h>
+

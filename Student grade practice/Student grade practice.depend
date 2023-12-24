@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1600892631 source:f:\programs\student grade practice\main.c
+	<stdio.h>
+	<stdlib.h>
+	"student.h"
+	"grade.h"
+
+1601195726 source:f:\programs\student grade practice\student.c
+	<stdio.h>
+	<stdlib.h>
+	"student.h"
+
+1601195231 source:f:\programs\student grade practice\grade.c
+	<stdio.h>
+	<stdlib.h>
+	"grade.h"
+
+1599548270 f:\programs\student grade practice\student.h
+	"grade.h"
+
+1599547673 f:\programs\student grade practice\grade.h
+

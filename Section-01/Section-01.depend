@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1580916256 source:e:\programs\section-01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1580573016 source:e:\programs\section-01\testproject.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1601267866 source:f:\programs\practice from the book\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"practice.h"
+
+1599580935 f:\programs\practice from the book\practice.h
+
+1599582653 source:f:\programs\practice from the book\practice.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"practice.h"
+

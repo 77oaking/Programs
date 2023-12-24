@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1604552117 source:f:\programs\tafsir\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<string.h>
+

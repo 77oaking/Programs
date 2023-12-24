@@ -1,0 +1,6 @@
+#ifndef LEARN_HERBERT_C++_H_INCLUDED
+#define LEARN_HERBERT_C++_H_INCLUDED
+int test();
+
+
+#endif // LEARN_HERBERT_C++_H_INCLUDED

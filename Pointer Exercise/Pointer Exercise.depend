@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1599302930 source:f:\programs\pointer exercise\main.c
+	<stdio.h>
+	<stdlib.h>
+	"point.h"
+	"rectangle.h"
+
+1599302351 f:\programs\pointer exercise\point.h
+
+1599302845 source:f:\programs\pointer exercise\point.c
+	<stdio.h>
+	<stdlib.h>
+	"point.h"
+	<math.h>
+
+1599058014 source:f:\programs\pointer exercise\rectangle.c
+	<stdio.h>
+	<stdlib.h>
+	"point.h"
+	"rectangle.h"
+
+1599068941 f:\programs\pointer exercise\rectangle.h
+

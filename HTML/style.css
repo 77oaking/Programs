@@ -1,0 +1,65 @@
+.t1{
+	width: 50%;
+	height: 500px;
+	margin-left: 25%;
+	margin-right: 25%;
+	border-collapse: collapse;
+}
+.t1,td{
+	border: 1px solid;
+	text-align: center;
+}
+.snake{
+	height: 50%;
+	width: 50%;
+	margin-right: 25%;
+	margin-left: 25%;
+}
+.menu{
+	background: dodgerblue;
+	text-decoration: none;
+}
+.menu a{
+	text-decoration: none;
+}
+.menu th:hover{
+	background: white;
+}
+.listmenu{
+	text-align: center;
+	width: 20%;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: #f1f1f1;
+}
+.listmenu li a{
+	display: block;
+	padding: 8px 16px;
+	color: #000;
+	text-decoration: none;
+}
+.listmenu li a:hover{
+	color: white;
+	background-color: #555;
+
+}
+.active{
+	color: white;
+	background-color: #04AA6D;
+}
+.drp{
+	position: relative;
+	display: inline-block;
+	list-style-type: none;
+	
+}
+.dwn{
+	display: none;
+	position: absolute;
+
+
+}
+.drp:hover .dwn{
+	display: block;
+}

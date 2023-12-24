@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1582452819 source:e:\programs\babar test\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
